@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/azure-pipelines-template/commit/c231fdfb68d4f3d7ca09be0d72db1a56a1c46767",
       "git:hexsha": "c231fdfb68d4f3d7ca09be0d72db1a56a1c46767",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/azure-pipelines-template/commit/cd3852e2627d822bdffc7b17a1a44f132206206d",
