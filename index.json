@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "azure-pipelines-template",
+  "versions": [
+    {
+      "commit": "c231fdfb68d4f3d7ca09be0d72db1a56a1c46767",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:34:31.076982+00:00"
+    }
+  ]
+}
