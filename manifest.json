@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "azure-pipelines-template",
+  "versions": [
+    {
+      "commit": "c231fdfb68d4f3d7ca09be0d72db1a56a1c46767",
+      "parsed_at": "2026-10-11T19:32:09.639092+00:00",
+      "filetree": "filetree/c231fdfb68d4f3d7ca09be0d72db1a56a1c46767.nq.gz",
+      "blobs": [
+        "blob/04c3665ae72412830a1678f4db85261738ac83f7.nq.gz",
+        "blob/3ac92972bc3c89cc03558cec13ca9dafcb9789b2.nq.gz",
+        "blob/7cb8162d4b086d32b9335b6d9848355c8cd278bd.nq.gz",
+        "blob/870bc36bea2120508bc29fe57e1cf0a050cc5c8a.nq.gz",
+        "blob/9a0fe9dba5ca4fe2184fb436243ba7961f0a6174.nq.gz",
+        "blob/db9d9a49ff55f59f3c20c9f8d1e881490d3a94ce.nq.gz",
+        "blob/51a4e25fbaa564ca095ea817ac71058659d4c615.nq.gz",
+        "blob/5a70286778a43d231f9675e88c0992c1ba4d61ad.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
